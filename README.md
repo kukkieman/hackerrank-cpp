@@ -1,2 +1,2 @@
 # hackerrank-cpp
-Solutions for Hackerrank's C++ Skills track
+My solutions for Hackerrank's C++ Skills track
